@@ -1,6 +1,6 @@
 # DM-VSR: Depth-Aware Diffusion Models with Adaptive Modulation for Video Super-Resolution
 
-## Updates
+## ⏰ Update
 - **2025.06.17**: Repo is created.
 ## 👀 TODO
 - [x] Dependencies and installation.
